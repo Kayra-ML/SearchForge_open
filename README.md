@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="SearchForge Banner" width="100%"/>
+</p>
+
 # SearchForge
 
 Google Drive üzerindeki PDF ve dokümanları web üzerinden arayan ve okuyan sistem.
